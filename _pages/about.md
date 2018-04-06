@@ -1,3 +1,6 @@
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
+
 ---
 permalink: /
 title: "About me"
