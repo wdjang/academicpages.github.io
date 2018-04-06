@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
 ---
