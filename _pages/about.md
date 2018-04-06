@@ -12,6 +12,12 @@ I am a postdoc fellow in the School of Engineering and Applied Science at Harvar
 
 Latest news
 ======
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /news/
+author_profile: true
+---
 
 {% for post in site.news reversed %}
   {% include archive-single-news.html %}
