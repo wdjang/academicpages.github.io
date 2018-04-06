@@ -13,4 +13,4 @@ I am a postdoc fellow in the School of Engineering and Applied Science at Harvar
 Latest news
 ======
 
-[123](/_pages/talks.html)
+[123](/talks/)
