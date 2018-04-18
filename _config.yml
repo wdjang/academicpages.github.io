@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Won-Dong Jang"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Won-Dong Jang"
 description              : &description "PostDoc at Harvard University"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Won-Dong Jang"
   avatar           : "Visa_Photo_Small.jpg"
   bio              : "A postdoctoral fellow at Harvard University"
   location         : "Cambridge, MA"
