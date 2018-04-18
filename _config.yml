@@ -150,7 +150,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-highlighter: rouge
+highlighter: 
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
