@@ -40,7 +40,7 @@ Education
 
 Publications
 ------
-* [<span style="color:grey">Link</span>](https://wdjang.github.io/publications/)
+* [<span style="color:grey">[Link]</span>](https://wdjang.github.io/publications/)
 
 <!--
 Journal Publications
