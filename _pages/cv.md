@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Curriculum Vitae
+======
+* [<span style="color:grey">[Download as PDF]</span>](http://mcl.korea.ac.kr/~dotol1216/Publications/2017_CVPR_WDJANG.pdf)
+
 Education
 ======
 * B.S. in Github, Github University, 2012
