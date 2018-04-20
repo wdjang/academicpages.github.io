@@ -38,7 +38,9 @@ Education
 * B.S., Electrical Engineering, Feb. 2011
   * Korea University, Seoul, Korea
 
-## [<span style="color:black">Publications</span>](https://wdjang.github.io/publications/)
+Publications
+------
+* [<span style="color:grey">Link</span>](https://wdjang.github.io/publications/)
 
 <!--
 Journal Publications
