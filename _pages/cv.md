@@ -64,3 +64,35 @@ Conference Publications
 * **Won-Dong Jang**, Jae-Young Sim, and Chang-Su Kim, “GEQM: A quality metric for gray-level edge maps based on structural matching,” in Proc. IEEE International Conference on Acoustics, Speech, and Singal Processing (ICASSP), Florence, Italy, May 2014.
 * Jin-Hwan Kim, **Won-Dong Jang**, Yongsup Park, Dong-Hahk Lee, Jae-Young Sim, and Chang-Su Kim, “Temporally coherent real-time video dehazing,” in Proc. IEEE International Conference on Image Processing (ICIP), Orlando, FL, Sep. 2012.
 -->
+
+Patents
+------
+* Young-Jin Kwak, Kyung-Rae Kim, Chang-Su Kim, **Won-Dong Jang**, Jun-Tae Lee, “Method and device for determining similarity between sequences,” US9886650 B2, Feb. 2018.
+* Yongsup Park, Donghahk Lee, Changsu Kim, Jinhwan Kim, **Wondong Jang**, “Image processing apparatus for removing haze contained in still image and method thereof,” US9336577 B2, May 2016.
+* Yongsup Park, Donghahk Lee, Changsu Kim, Jinhwan Kim, **Wondong Jang**, “Imageprocessing apparatus for removing haze contained in video, and method therefof,” US9275443 B2, Mar. 2016.
+* In-Kuk Yun, Chang-Su Kim, Chulwoo Lee, **Won-Dong Jang**, Po-Ra Kim, Se-Mi Park, Jeong-Seok Lee, and Yeong-Jun Koh, “Apparatus and method of detecting an input position with display pattern recognition,” Pub. No. US20130088425 A1, Apr. 2013.
+* In-Kuk Yun, Chang-Su Kim, Chulwoo Lee, **Won-Dong Jang**, Seong-Min Seo, JeongSeok Lee, Jeong-Seok Choi, and Yeong-Jun Koh, “Display apparatus including a pattern and method for generating a,” Pub. No. US20130082907 A1, Apr. 2013.
+
+Professional Activities
+------
+* Reviewer for journals
+  * IEEE Transactions on Image Processing
+  * IEEE Transactions on Multimedia
+  * IEEE Transactions on Circuits and Systems for Video Technology
+  * Journal of Visual Communication and Image Representation
+* Reviewer for conferences
+  * IEEE Conference on Computer Vision and Pattern Recognition
+  * IEEE International Conference on Visual Communications and Image Processing
+
+Honors and Awards
+------
+* Brain Korea (BK) 21 Graduate Student Fellowship, National Research Foundation of Korea, 2011 – 2016
+
+Membership
+------
+* Student Member of IEEE
+
+Computer Skills
+------
+* Languages
+  * C/C++, MATLAB, Python
