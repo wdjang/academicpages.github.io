@@ -37,12 +37,17 @@ Education
   * Advisor: Prof. Chang-Su Kim
 * B.S., Electrical Engineering, Feb. 2011
   * Korea University, Seoul, Korea
-  
+
+# [<span style="color:black">[Publications]</span>](https://wdjang.github.io/publications/))
+
+<!--
 Journal Publications
 ------
 * **Won-Dong Jang**, Tae-Young Chung, Jae-Young Sim, and Chang-Su Kim, “FDQM: Fast quality metric for depth maps without view synthesis,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 25, no. 7, pp. 1099–1112, Jul. 2015.
 * Jin-Hwan Kim, **Won-Dong Jang**, Jae-Young Sim, and Chang-Su Kim, “Optimized contrast enhancement for real-time image and video dehazing,” Journal of Visual Communication and Image Representation, vol. 24, no. 3, pp. 410–425, Apr. 2013.
+-->
 
+<!--
 Conference Publications
 ------
 * Se-Ho Lee, **Won-Dong Jang**, and Chang-Su Kim, “Temporal superpixels based on proximity-weighted patch matching,” in Proc. IEEE International Conference on Computer Vision (ICCV), Venice, Italy, Oct. 2017. 
@@ -58,3 +63,4 @@ Conference Publications
 * **Won-Dong Jang**, Chulwoo Lee, Jae-Young Sim, and Chang-Su Kim, “Automatic video genre classification using multiple SVM votes,” in Proc. IEEE International Conference on Pattern Recognition (ICPR), Stockholm, Sweden, Aug. 2014.
 * **Won-Dong Jang**, Jae-Young Sim, and Chang-Su Kim, “GEQM: A quality metric for gray-level edge maps based on structural matching,” in Proc. IEEE International Conference on Acoustics, Speech, and Singal Processing (ICASSP), Florence, Italy, May 2014.
 * Jin-Hwan Kim, **Won-Dong Jang**, Yongsup Park, Dong-Hahk Lee, Jae-Young Sim, and Chang-Su Kim, “Temporally coherent real-time video dehazing,” in Proc. IEEE International Conference on Image Processing (ICIP), Orlando, FL, Sep. 2012.
+-->
