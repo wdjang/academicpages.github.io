@@ -28,6 +28,20 @@ Won-Dong Jang and Chang-Su Kim, "Online Video Object Segmentation via Convolutio
 [[GitHub link]](https://github.com/wdjang/CTN)
 
 
+
+------------------------------------------------------------------------------
+### Streaming Video Segmentation via Short-Term Hierarchical Segmentation and Frame-by-Frame Markov Random Field Optimization
+![SVS](/files/abstract_figures/SVS.png)
+
+##### Abstract
+An online video segmentation algorithm, based on short-term hierarchical segmentation (STHS) and frame-by-frame Markov random field (MRF) optimization, is proposed in this work. We develop the STHS technique, which generates initial segments by sliding a short window of frames. In STHS, we apply spatial agglomerative clustering to each frame, and then adopt inter-frame bipartite graph matching to construct initial segments. Then, we partition each frame into final segments, by minimizing an MRF energy function composed of unary and pairwise costs. We compute the unary cost using the STHS initial segments and the segmentation result at the previous frame. We set the pairwise cost to encourage similar nodes to have the same segment label. Experimental results on a video segmentation benchmark dataset, VSB100, demonstrate that the proposed algorithm outperforms state-of-the-art online video segmentation techniques significantly.
+
+##### Publication
+Won-Dong Jang and Chang-Su Kim, "Streaming Video Segmentation via Short-Term Hierarchical Segmentation and Frame-by-Frame Markov Random Field Optimization," in Proc. European Conference on Computer Vision (ECCV), Amsterdam, Netherlands, Oct. 2016. [[pdf]](/files/2016_ECCV_WDJANG.pdf)
+
+##### Code
+[[GitHub link]](https://github.com/wdjang/SVS)
+
 ------------------------------------------------------------------------------
 ### Semi-supervised Video Object Segmentation Using Multiple Random Walkers
 ![SSVOS](/files/abstract_figures/SSVOS.png)
@@ -41,4 +55,18 @@ Won-Dong Jang and Chang-Su Kim, "Semi-supervised Video Object Segmentation Using
 ##### Code
 [[GitHub link]](https://github.com/wdjang/SSVOS)
 
+
 ------------------------------------------------------------------------------
+### Primary Object Segmentation in Videos via Alternate Convex Optimization of Foreground and Background Distributions
+![ACO](/files/abstract_figures/ACO.png)
+
+##### Abstract
+An unsupervised video object segmentation algorithm, which discovers a primary object in a video sequence automatically, is proposed in this work. We introduce three energies in terms of foreground and background probability distributions: Markov, spatiotemporal, and antagonistic energies. Then, we minimize a hybrid of the three energies to separate a primary object from its background. However, the hybrid energy is nonconvex. Therefore, we develop the alternate convex optimization (ACO) scheme, which decomposes the nonconvex optimization into two quadratic programs. Moreover, we propose the forward-backward strategy, which performs the segmentation sequentially from the first to the last frames and then vice versa, to exploit temporal correlations. Experimental results on extensive datasets demonstrate that the proposed ACO algorithm outperforms the state-of-the-art techniques significantly.
+
+##### Publication
+Won-Dong Jang, Chulwoo Lee, and Chang-Su Kim, "Primary Object Segmentation in Videos via Alternate Convex Optimization of Foreground and Background Distributions," in Proc. IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, USA, pp. 696-704, Jun. 2016. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Jang_Primary_Object_Segmentation_CVPR_2016_paper.pdf) [[supplementary video]](https://youtu.be/2Tv74CI2ElU)
+
+##### Code
+[[GitHub link]](https://github.com/wdjang/ACO)
+
+
