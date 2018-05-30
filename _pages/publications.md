@@ -23,7 +23,7 @@ Journal Publications
 
 Conference Publications
 ------
-* Se-Ho Lee, **Won-Dong Jang**, and Chang-Su Kim, “Temporal superpixels based on proximity-weighted patch matching,” in Proc. IEEE International Conference on Computer Vision (ICCV), Venice, Italy, Oct. 2017. 
+* Se-Ho Lee, **Won-Dong Jang**, and Chang-Su Kim, “Temporal superpixels based on proximity-weighted patch matching,” in Proc. IEEE International Conference on Computer Vision (ICCV), Venice, Italy, Oct. 2017. <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Lee_Temporal_Superpixels_Based_ICCV_2017_paper.pdf" target="_blank">[pdf]</a>
 * **Won-Dong Jang** and Chang-Su Kim, “Online video object segmentation via convolutional trident network,” in Proc. IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, Jul. 2017.
 * Se-Ho Lee, **Won-Dong Jang**, and Chang-Su Kim, “Contour-constrained superpixels for image and video processing,” in Proc. IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, Jul. 2017.
 * **Won-Dong Jang** and Chang-Su Kim, “Semi-supervised video object segmentation using multiple random walkers,” in Proc. British Machine Vision Conference (BMVC), York, UK, Sep. 2016.
