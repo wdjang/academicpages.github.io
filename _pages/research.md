@@ -24,7 +24,7 @@ A semi-supervised online video object segmentation algorithm, which accepts user
 ##### Publication
 Won-Dong Jang and Chang-Su Kim, "Online Video Object Segmentation via Convolutional Trident Network," in Proc. IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, USA, pp. 5849-5858, Jul. 2017. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_Online_Video_Object_CVPR_2017_paper.pdf) [[supplementary video]](https://youtu.be/anBeoXcGoXg)
 
-##### 
+##### Code
 [[GitHub link]](https://github.com/wdjang/CTN)
 
 
