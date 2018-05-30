@@ -27,8 +27,6 @@ Won-Dong Jang and Chang-Su Kim, "Online Video Object Segmentation via Convolutio
 ##### 
 [[GitHub link]](https://github.com/wdjang/CTN)
 
-------------------------------------------------------------------------------
-
 
 ------------------------------------------------------------------------------
 ### Semi-supervised Video Object Segmentation Using Multiple Random Walkers
