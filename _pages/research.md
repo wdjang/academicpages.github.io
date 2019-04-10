@@ -15,6 +15,20 @@ author_profile: true
 
 
 ------------------------------------------------------------------------------
+### Interactive Image Segmentation via Backpropagating Refinement Scheme
+![BRS](/files/abstract_figures/BRS_overview.png)
+
+##### Abstract
+An interactive image segmentation algorithm, which accepts user-annotations about a target object and the background, is proposed in this work. We convert user-annotations into interaction maps by measuring distances of each pixel to the annotated locations. Then, we perform the forward pass in a convolutional neural network, which outputs an initial segmentation map. However, the user-annotated locations can be mislabeled in the initial result. Therefore, we develop the backpropagating refinement scheme (BRS), which corrects the mislabeled pixels. Experimental results demonstrate that the proposed algorithm outperforms the conventional algorithms on four challenging datasets. Furthermore, we demonstrate the generality and applicability of BRS in other computer vision tasks, by transforming existing convolutional neural networks into user-interactive ones.
+
+##### Publication
+Won-Dong Jang and Chang-Su Kim, "Interactive Image Segmentation via Backpropagating Refinement Scheme," in Proc. IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019. [[pdf]](https://vcg.seas.harvard.edu/publications/interactive-image-segmentation-via-backpropagating-refinement-scheme/paper) [[supplementary video]](https://youtu.be/KOcpzBAVfFE)
+
+##### Code
+[[GitHub link]](https://github.com/wdjang/BRS-Interactive_segmentation)
+
+
+------------------------------------------------------------------------------
 ### Online Video Object Segmentation via Convolutional Trident Network
 ![CTN](/files/abstract_figures/CTN_overview.png)
 
