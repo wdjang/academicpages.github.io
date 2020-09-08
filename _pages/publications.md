@@ -24,6 +24,21 @@ Journal Publications
 
 Conference Publications
 ------
+
+* Salma A. Magid, **Won-Dong Jang**, Denis Schapiro, Donglai Wei, James Tompkin, Peter Sorger, and Hanspeter Pfister, "Channel Embedding for Informative Protein Identification from Highly Multiplexed Images," in MICCAI, Virtual, Oct. 2020. [[project page]](https://sabdelmagid.github.io/miccai2020-project/)
+
+* Brian Leahy\*, **Won-Dong Jang\*** Helen Yang\*, Robbert Struyven, Donglai Wei, Zhe Sun, Kylie R. Lee, Charlotte Royston, Liz Cam, Yael Kalma, Foad Azem, Dalit Ben-Yosef, Hanspeter Pfister, and Daniel Needleman, "Automated Measurements of Key Morphological Features of Human Embryos for IVF," in MICCAI, Virtual, Oct. 2020. [[project page]](https://wdjang.github.io/miccai2020-ivf.github.io/)
+
+\*equal contributions
+
+* Donglai Wei, Zudi Lin, Daniel Franco-Barranco, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang, Aarush Gupta, **Won-Dong Jang**, Xueying Wang, Ignacio Arganda-Carreras, Jeff W. Lichtman, and Hanspeter Pfister, "MitoEM Dataset: Large-scale 3D Mitochondria Instance Segmentation from EM Images," in MICCAI, Virtual, Oct. 2020. [[project page]](https://donglaiw.github.io/page/mitoEM/index.html)
+
+* Zudi Lin, Donglai Wei, **Won-Dong Jang**, Siyan Zhou, Xupeng Chen, Xueying Wang, Richard L. Schalek, Daniel R. Berger, Brian Matejek, Lee D. Kamentsky, Adi Peleg, Daniel Haehn, Thouis R. Jones, Toufiq Parag, Jeff Lichtman, and Hanspeter Pfister "Two-Stream Active Query Suggestion for Large-Scale Object Detection in Connectomics,"" in ECCV, Virtual, Aug. 2020. [[project page]](https://zudi-lin.github.io/projects/#two_stream_active)
+
+* Abhimanyu Talwar, Zudi Lin, Donglai Wei, Yuesong Wu, Bowen Zheng, Jinglin Zhao, **Won-Don Jang**, Xueying Wang, Jeff Lichtman, and Hanspeter Pfister, "A Topological Nomenclature for 3D Shape Analysis in Connectomics," in CVPR Workshop, Virtual, Jun. 2020. [[pdf]](https://donglaiw.github.io/paper/2020_cvprw_nomen.pdf) [[github]](https://github.com/donglaiw/ibexHelper)
+
+* Robert Kruger, Johanna Beyer, **Won-Dong Jang**, Nam Wook Kim, Artem Sokolov, Peter Sorger, and Hanspeter Pfister "Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data," in VAST, Vancouver, BC, Canada, Oct. 2019. [[webpage]](https://vcg.seas.harvard.edu/publications/facetto)
+
 * **Won-Dong Jang** and Chang-Su Kim, “Interactive Image Segmentation via Backpropagating Refinement Scheme,” in Proc. IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, Jun. 2019. <a href="https://vcg.seas.harvard.edu/publications/interactive-image-segmentation-via-backpropagating-refinement-scheme/paper" target="_blank">[pdf]</a> [[GitHub]](https://github.com/wdjang/BRS-Interactive_segmentation)
 * Se-Ho Lee, **Won-Dong Jang**, and Chang-Su Kim, “Temporal superpixels based on proximity-weighted patch matching,” in Proc. IEEE International Conference on Computer Vision (ICCV), Venice, Italy, Oct. 2017. <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Lee_Temporal_Superpixels_Based_ICCV_2017_paper.pdf" target="_blank">[pdf]</a>[[project page]](http://mcl.korea.ac.kr/shlee_iccv2017/)
 * **Won-Dong Jang** and Chang-Su Kim, “Online video object segmentation via convolutional trident network,” in Proc. IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, HI, Jul. 2017. <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_Online_Video_Object_CVPR_2017_paper.pdf" target="_blank">[pdf]</a> [[GitHub]](https://github.com/wdjang/CTN)
