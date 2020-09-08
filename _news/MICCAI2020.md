@@ -4,7 +4,7 @@ collection: news
 type: "News"
 permalink: /news/MICCAI2020
 venue: 
-date: 2017-07-22
+date: 2020-10-04
 location: "Virtual"
 ---
 
