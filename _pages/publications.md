@@ -27,9 +27,7 @@ Conference Publications
 
 * Salma A. Magid, **Won-Dong Jang**, Denis Schapiro, Donglai Wei, James Tompkin, Peter Sorger, and Hanspeter Pfister, "Channel Embedding for Informative Protein Identification from Highly Multiplexed Images," in MICCAI, Virtual, Oct. 2020. [[project page]](https://sabdelmagid.github.io/miccai2020-project/)
 
-* Brian Leahy\*, **Won-Dong Jang\*** Helen Yang\*, Robbert Struyven, Donglai Wei, Zhe Sun, Kylie R. Lee, Charlotte Royston, Liz Cam, Yael Kalma, Foad Azem, Dalit Ben-Yosef, Hanspeter Pfister, and Daniel Needleman, "Automated Measurements of Key Morphological Features of Human Embryos for IVF," in MICCAI, Virtual, Oct. 2020. [[project page]](https://wdjang.github.io/miccai2020-ivf.github.io/)
-
-\*equal contributions
+* Brian Leahy\*, **Won-Dong Jang\*** Helen Yang\*, Robbert Struyven, Donglai Wei, Zhe Sun, Kylie R. Lee, Charlotte Royston, Liz Cam, Yael Kalma, Foad Azem, Dalit Ben-Yosef, Hanspeter Pfister, and Daniel Needleman, "Automated Measurements of Key Morphological Features of Human Embryos for IVF," in MICCAI, Virtual, Oct. 2020. [[project page]](https://wdjang.github.io/miccai2020-ivf.github.io/) **\*equal contributions**
 
 * Donglai Wei, Zudi Lin, Daniel Franco-Barranco, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang, Aarush Gupta, **Won-Dong Jang**, Xueying Wang, Ignacio Arganda-Carreras, Jeff W. Lichtman, and Hanspeter Pfister, "MitoEM Dataset: Large-scale 3D Mitochondria Instance Segmentation from EM Images," in MICCAI, Virtual, Oct. 2020. [[project page]](https://donglaiw.github.io/page/mitoEM/index.html)
 
